@@ -1,0 +1,5 @@
+CREATE TABLE banks
+(
+    id   BIGSERIAL PRIMARY KEY NOT NULL,
+    name VARCHAR(55)
+);
